@@ -10,6 +10,8 @@
 
 - [100 numpy exercises - Nicolas P. Rougier](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.md)
 
+- [A Concrete Introduction to Probability (using Python) - Peter Norvig](https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb)
+
 ## Introduction to Probability and Statistics
 - [Khan Academy's statistics and probability course](https://www.khanacademy.org/math/statistics-probability)
 
