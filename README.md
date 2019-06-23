@@ -1,6 +1,6 @@
 # The Bayes Way
 
-This page is a small subset consisting of the best articles, papers, videos and books to learn Probability and Statistics. It is a way to reduce the signal-noise ratio for beginners.
+The Bayes Way - this page - is a small small subset consisting of the best articles, papers, videos and books to learn Probability and Statistics. It is a way to reduce the signal-noise ratio for beginners.
 
 ## Introduction to Python, Numpy and Pandas
 
@@ -14,17 +14,23 @@ This page is a small subset consisting of the best articles, papers, videos and 
 
 - [A Concrete Introduction to Probability (using Python) - Peter Norvig](https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb)
 
-## Introduction to Probability and Statistics
+## Introduction to Probability and Statistics (MOOCs and videos)
+
 - [Khan Academy's statistics and probability course](https://www.khanacademy.org/math/statistics-probability)
 
 - [Bayesian Statistics the Fun Way - Will Kurt](https://nostarch.com/learnbayes)
 
+- [Think Stats - Allen B. Downey](https://www.goodreads.com/book/show/12042357-think-stats)
+
+- [Think Bayes - Allen B. Downey](https://www.goodreads.com/book/show/18711042-think-bayes)
+
+- [The Art of Data Science: A Guide for Anyone Who Works with Data - Roger D. Peng, Elizabeth Matsui](https://www.goodreads.com/book/show/26299386-the-art-of-data-science)
+
 ## Probabilistic Programming
+
 - [Probabilistic Programming & Bayesian Methods for Hackers - Cam Davidson-Pilon](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 - [Bayesian Analysis with Python - Osvaldo Martin](https://www.packtpub.com/big-data-and-business-intelligence/bayesian-analysis-python-second-edition)
-
-- [Automating Inference, Learning, and Design using Probabilistic Programming - Tom Rainforth](http://www.robots.ox.ac.uk/~twgr/assets/pdf/rainforth2017thesis.pdf)
 
 ## MOOCs
 
@@ -34,8 +40,8 @@ This page is a small subset consisting of the best articles, papers, videos and 
 
 - [MITx's Statistics and Data Science MicroMasters](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
 
-
 ## Books
+
 - [Doing Bayesian Data Analysis: A Tutorial Introduction with R - John K. Kruschke](https://www.goodreads.com/book/show/9003187-doing-bayesian-data-analysis)
 
 - [Statistical Rethinking - Richard McElreath](https://xcelab.net/rm/statistical-rethinking/)
@@ -44,7 +50,9 @@ This page is a small subset consisting of the best articles, papers, videos and 
 
 - [Bayesian Data Analysis - Andrew Gelman](http://www.stat.columbia.edu/~gelman/book/)
 
-## Papers
+## Papers and Thesis
+
+- [Automating Inference, Learning, and Design using Probabilistic Programming - Tom Rainforth](http://www.robots.ox.ac.uk/~twgr/assets/pdf/rainforth2017thesis.pdf)
 
 - [A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)
 
