@@ -2,9 +2,13 @@
 
 ## Introduction to Python, Numpy and Pandas
 
-[100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.md)
+[A Whirlwind Tour of Python - Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython)
 
-[From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+[Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+[From Python to Numpy - Nicolas P. Rougier](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+
+[100 numpy exercises - Nicolas P. Rougier](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.md)
 
 ## Introduction to Probability and Statistics
 [Khan Academy's statistics and probability course](https://www.khanacademy.org/math/statistics-probability)
@@ -15,7 +19,7 @@ Doing Bayesian Data Analysis
 ## Probabilistic Programming
 - [Probabilistic Programming & Bayesian Methods for Hackers - Cam Davidson-Pilon](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
-- [Bayesian Analysis with Python - Osvaldo Martin]()
+- [Bayesian Analysis with Python - Osvaldo Martin](https://www.packtpub.com/big-data-and-business-intelligence/bayesian-analysis-python-second-edition)
 
 - [Automating Inference, Learning, and Design using Probabilistic Programming - Tom Rainforth](http://www.robots.ox.ac.uk/~twgr/assets/pdf/rainforth2017thesis.pdf)
 
