@@ -24,8 +24,16 @@
 
 - [Automating Inference, Learning, and Design using Probabilistic Programming - Tom Rainforth](http://www.robots.ox.ac.uk/~twgr/assets/pdf/rainforth2017thesis.pdf)
 
-## Books
+## MOOCs
 
+- [Harvard's Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home)
+
+- [Duke's Statistics with R Specialization](https://www.coursera.org/specializations/statistics)
+
+- [MITx's Statistics and Data Science MicroMasters](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
+
+
+## Books
 - [Doing Bayesian Data Analysis: A Tutorial Introduction with R - John K. Kruschke](https://www.goodreads.com/book/show/9003187-doing-bayesian-data-analysis)
 
 - [Statistical Rethinking - Richard McElreath](https://xcelab.net/rm/statistical-rethinking/)
