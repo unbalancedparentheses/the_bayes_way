@@ -14,7 +14,7 @@ The Bayes Way - this page - is a small small subset consisting of the best artic
 
 - [A Concrete Introduction to Probability (using Python) - Peter Norvig](https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb)
 
-## Introduction to Probability and Statistics (MOOCs and videos)
+## Introduction to Probability and Statistics (videos and books)
 
 - [Khan Academy's statistics and probability course](https://www.khanacademy.org/math/statistics-probability)
 
