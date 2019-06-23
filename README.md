@@ -2,19 +2,18 @@
 
 ## Introduction to Python, Numpy and Pandas
 
-[A Whirlwind Tour of Python - Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython)
+- [A Whirlwind Tour of Python - Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython)
 
-[Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-[From Python to Numpy - Nicolas P. Rougier](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
+- [From Python to Numpy - Nicolas P. Rougier](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 
-[100 numpy exercises - Nicolas P. Rougier](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.md)
+- [100 numpy exercises - Nicolas P. Rougier](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.md)
 
 ## Introduction to Probability and Statistics
-[Khan Academy's statistics and probability course](https://www.khanacademy.org/math/statistics-probability)
+- [Khan Academy's statistics and probability course](https://www.khanacademy.org/math/statistics-probability)
 
-[Bayesian Statistics the Fun Way - Will Kurt](https://nostarch.com/learnbayes)
-Doing Bayesian Data Analysis
+- [Bayesian Statistics the Fun Way - Will Kurt](https://nostarch.com/learnbayes)
 
 ## Probabilistic Programming
 - [Probabilistic Programming & Bayesian Methods for Hackers - Cam Davidson-Pilon](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
