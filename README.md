@@ -1,5 +1,7 @@
 # The Bayes Way
 
+This page is a small subset consisting of the best articles, papers, videos and books to learn Probability and Statistics. It is a way to reduce the signal-noise ratio for beginners.
+
 ## Introduction to Python, Numpy and Pandas
 
 - [A Whirlwind Tour of Python - Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython)
