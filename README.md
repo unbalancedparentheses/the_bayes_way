@@ -41,3 +41,9 @@
 - [Probability Theory: The Logic of Science - E.T. Jaynes](https://www.goodreads.com/book/show/151848.Probability_Theory) and [Aubrey Clayton lectures on the key chapters of Probability Theory The Logic of Science](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
 
 - [Bayesian Data Analysis - Andrew Gelman](http://www.stat.columbia.edu/~gelman/book/)
+
+## Papers
+
+- [A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)
+
+- [The Markov Chain Monte Carlo Revolution](https://math.uchicago.edu/~shmuel/Network-course-readings/MCMCRev.pdf)
