@@ -42,6 +42,8 @@ The Bayes Way - this page - is a small small subset consisting of the best artic
 
 ## Books
 
+- [Introduction to Probability - Joseph K. Blitzstein, Jessica Hwang](https://www.goodreads.com/book/show/21558327-introduction-to-probability)
+
 - [Doing Bayesian Data Analysis: A Tutorial Introduction with R - John K. Kruschke](https://www.goodreads.com/book/show/9003187-doing-bayesian-data-analysis)
 
 - [Statistical Rethinking - Richard McElreath](https://xcelab.net/rm/statistical-rethinking/)
