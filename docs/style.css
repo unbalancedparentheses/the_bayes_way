@@ -1,7 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css?family=Roboto|Shojumaru&display=swap');
-/* font-family: 'Amatic SC', cursive;
-font-family: 'Open Sans Condensed', sans-serif; */
+
 
 body{
     background-color: #F9F4ED;
@@ -91,9 +90,13 @@ body{
     padding-bottom: 5%
 }
 
+#index h1{
+    font-size: 50px;
+}
+
 .wrapper{
     margin: 0;
-    padding: 5% 20%;
+    padding: 5% 15%;
     background-position:
         top 140px left 5px,
         top 410px right 50px,
@@ -110,8 +113,6 @@ body{
 
 #index li{
     margin-bottom: 2%;
-
-
 }
 li{
     margin-bottom: 2%;
@@ -156,7 +157,7 @@ h2{
         justify-content: space-between;
     -ms-flex-align: stretch;
         align-items: stretch;
-    margin: 2% 5%;
+    margin: 2% 0;
     min-width: 50%;
 }
 
@@ -244,12 +245,11 @@ portrait orientation on mobile */
     #index p{
         font-size: 20px;
     }
-    #index a{
-        font-size: 18px;
+    #index h1{
+        font-size: 25px;
     }
-    ol a{
-        font-size: 15px;
-        padding-bottom: 20%;
+    a{
+        font-size: 20px;
     }
     h2{
         font-size: 25px;
@@ -260,10 +260,15 @@ portrait orientation on mobile */
     }
     #index_container{
         height: 70vh;
+        background-image: url(./img/imageC.png);
+        background-size: 40%;
+        background-repeat: no-repeat;
+        background-position: bottom right
     }
     .wrapper{
-        padding: 5% 10%;
-        font-size: 10px;
+        padding: 5% 2%;
+        font-size: 20px;
+        background-image: none;
     }
     .footer{
         padding-top: 5%;
@@ -282,9 +287,6 @@ portrait orientation on mobile */
     h1{
         font-size: 20px;
     }
-    .footer a{
-        font-size: 20px;
-    }
     .name{
         padding: 0;
     }
@@ -299,7 +301,6 @@ portrait orientation on mobile */
         text-align: center;
     }
     #thanks ul{
-        height: 50%;
         margin: 0;
         padding: 0;
         -ms-flex-direction: column;
@@ -323,11 +324,21 @@ portrait orientation on mobile */
     a{
         font-size: 20px;
     }
+    #index {
+        max-width: 60%;
+
+    }
     #index h1{
         padding: 0;
+        font-size: 35px;
     }
     .title_container img{
         display: none;
+    }
+
+    .wrapper{
+        background-image: none;
+        padding: 5% 5%;
     }
     .footer{
         height: 70vh;
@@ -339,6 +350,8 @@ portrait orientation on mobile */
         padding: 0;
         width: 100%;
     }
+
+    
 
     #thanks{
         width: 70%;
@@ -377,11 +390,27 @@ portrait orientation on mobile */
     #index_container img{
         display: none;
     }
+    #index_container{
+        background-image: url(./img/imageC.png);
+        background-size: 40%;
+        background-repeat: no-repeat;
+        background-position: bottom right
+    }
     #index{
         max-width: 80%;
     }
+    #index h1{
+        font-size: 45px;
+        -ms-flex-item-align: center;
+            -ms-grid-row-align: center;
+            align-self: center;
+    }
     .footer{
         height: 30vh;
+    }
+    .wrapper{
+        background-image: none;
+        padding: 5% 10%;
     }
     #thanks ul{
         -ms-flex-direction: column;
@@ -412,6 +441,10 @@ portrait orientation on mobile */
 
     #index {
         padding-left: 5%;
+    }
+
+    #index h1{
+        font-size: 40px;
     }
     #thanks ul{
         width: 110%;
