@@ -45,9 +45,11 @@
 
 3. [Statistical Rethinking - Richard McElreath](https://xcelab.net/rm/statistical-rethinking/)
 
-4. [Probability Theory: The Logic of Science - E.T. Jaynes](https://www.goodreads.com/book/show/151848.Probability_Theory) and [Aubrey Clayton lectures on the key chapters of Probability Theory The Logic of Science](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
+4. [Probability Theory: The Logic of Science - E.T. Jaynes](https://www.goodreads.com/book/show/151848.Probability_Theory) 
 
-5. [Bayesian Data Analysis - Andrew Gelman](http://www.stat.columbia.edu/~gelman/book/)
+5. [Aubrey Clayton lectures on the key chapters of Probability Theory The Logic of Science](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
+
+6. [Bayesian Data Analysis - Andrew Gelman](http://www.stat.columbia.edu/~gelman/book/)
 
 ## Papers and Thesis
 
