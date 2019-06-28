@@ -193,27 +193,16 @@ portrait orientation on mobile */
         display: none;
     }
     #header{
-        height: 30vh;
-        background-image: 
-            url('./img/imageA.png'),
-            url('./img/imageB.png');
-        background-size: 20%;
-        background-repeat: no-repeat;
-        background-position: top 120px left 3px,
-                             top 120px right 10px;
-
+        max-height: 100vh;
     }
     .title_container p{
         padding: 0;
         margin: 0;
         font-size: 60%;
     }
-    .text{
-        display: none;
-    }
     #index{
         flex-direction: column;
-        max-width: 80%;
+        max-width: 70%;
     }
     #index p{
         font-size: 20px;
@@ -226,17 +215,14 @@ portrait orientation on mobile */
     }
     h2{
         font-size: 25px;
+        margin-left: 10%;
     }
     #index_container img{
         display: none;
         padding: 0;
     }
     #index_container{
-        height: 70vh;
-        background-image: url(./img/imageC.png);
-        background-size: 40%;
-        background-repeat: no-repeat;
-        background-position: bottom right
+        max-height: 100vh;
     }
     .wrapper{
         padding: 5% 2%;
@@ -286,9 +272,12 @@ portrait orientation on mobile */
 }
 
 /* Landscape orientation on mobile  */
-@media only screen and (min-device-width: 480px) and (max-device-width: 800px) and (orientation:landscape){
+@media only screen and (min-device-width: 480px) and (max-device-width: 812px) and (orientation:landscape){
     .title_container p{
         margin: 0;
+    }
+    #header img{
+        display: none;
     }
     .text{
         font-size: 20px;
@@ -322,7 +311,6 @@ portrait orientation on mobile */
         padding: 0;
         width: 100%;
     }
-
     
 
     #thanks{
