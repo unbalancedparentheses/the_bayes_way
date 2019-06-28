@@ -45,7 +45,7 @@ compile: build_dir favicon
 	cp $(SRC_DIR)/$(STYLE_CSS) $(BUILD_DIR)/$(STYLE_CSS)
 	$(POSTCSS) $(BUILD_DIR)/$(STYLE_CSS) > $(BUILD_DIR)/$(STYLE_CSS).prefixed
 	mv $(BUILD_DIR)/$(STYLE_CSS).prefixed $(BUILD_DIR)/$(STYLE_CSS)
-	$(PANDOC) --section-divs --toc --toc-depth=2 --template $(SRC_DIR)/$(CONTENT_TEMPL) -t html5 $(SRC_DIR)/$(CONTENT_MD) > $(BUILD_DIR)/$(INDEX_HTML)
+	$(PANDOC) --metadata pagetitle="The Bayes Way" --section-divs --toc --toc-depth=2 --template $(SRC_DIR)/$(CONTENT_TEMPL) -t html5 $(SRC_DIR)/$(CONTENT_MD) > $(BUILD_DIR)/$(INDEX_HTML)
 
 lint: compile
 	$(LINTER_HTML) $(BUILD_DIR)/*.html
