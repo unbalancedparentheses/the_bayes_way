@@ -219,7 +219,7 @@ portrait orientation on mobile */
         display: none;
     }
     #header{
-        max-height: 100vh;
+        max-height: 100%;
     }
     .title_container p{
         padding: 0;
@@ -249,7 +249,7 @@ portrait orientation on mobile */
         padding: 0;
     }
     #index_container{
-        max-height: 100vh;
+        max-height: 100%;
     }
     .wrapper{
         padding: 5% 2%;
@@ -258,7 +258,7 @@ portrait orientation on mobile */
     }
     .footer{
         padding-top: 5%;
-        height: 30vh;
+        height: 30%;
     }
     .footer img{
         display: none;
@@ -330,7 +330,7 @@ portrait orientation on mobile */
         padding: 5% 5%;
     }
     .footer{
-        height: 70vh;
+        height: 70%;
     }
     .text_container{
         width: 100%;
@@ -394,7 +394,7 @@ portrait orientation on mobile */
             align-self: center;
     }
     .footer{
-        height: 30vh;
+        height: 30%;
     }
     .wrapper{
         background-image: none;
