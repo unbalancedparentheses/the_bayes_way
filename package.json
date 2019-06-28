@@ -1,7 +1,7 @@
 {
   "name": "federicocarrone.com",
   "version": "1.0.0",
-  "description": "collection of the best articles, videos and presentations related to Erlang",
+  "description": "collection of the best articles, videos and presentations related to probability and statistics",
   "main": "index.js",
   "dependencies": {
     "autoprefixer": "^6.0.2",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/unbalancedparentheses/spawnedshelter.git"
+    "url": "git+https://github.com/unbalancedparentheses/the_bayes_way.git"
   },
   "author": "Federico Carrone",
-  "license": "BSD",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/unbalancedparentheses/spawnedshelter/issues"
+    "url": "https://github.com/unbalancedparentheses/the_bayes_way/issues"
   },
-  "homepage": "https://github.com/unbalancedparentheses/spawnedshelter#readme"
+  "homepage": "https://github.com/unbalancedparentheses/the_bayes_way#readme"
 }
