@@ -53,10 +53,10 @@ lint: compile
 
 publish: clean compile
 	cd $(BUILD_DIR) && \
-	echo "spawnedshelter.com" > CNAME && \
+	echo "bayesway.com" > CNAME && \
 	git init && \
-	git remote add gh-pages git@github.com:unbalancedparentheses/spawnedshelter.git && \
+	git remote add gh-pages git@github.com:unbalancedparentheses/the_bayes_way.git && \
 	git add . && \
 	git commit -m 'Update website' && \
 	git push -f gh-pages master:gh-pages  && \
-	echo "check http://spawnedshelter.com/"
+	echo "check https://bayesway.com/"
