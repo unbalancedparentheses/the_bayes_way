@@ -19,17 +19,24 @@ body{
 #header{
     height:100vh;
     margin: 0;
+    display: -ms-flexbox;
     display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: stretch;
+    -ms-flex-pack: center;
+        justify-content: center;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-align: stretch;
+        align-items: stretch;
     text-align: center;
     background: #F2EDC4;
 }
 .title_container{
+    display: -ms-flexbox;
     display: flex;
-    justify-content: space-evenly;
-    align-items: center;
+    -ms-flex-pack: space-evenly;
+        justify-content: space-evenly;
+    -ms-flex-align: center;
+        align-items: center;
     padding-bottom: 4%;
     margin-right: 5%;
     font-family: 'Shojumaru', cursive;
@@ -40,7 +47,9 @@ body{
     font-size:24px;
     line-height: 1.5;
     margin: 0 10%;
-    align-self: center;
+    -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
     text-align: center;
 
 }
@@ -51,9 +60,12 @@ body{
 
 
 #index_container{
+    display: -ms-flexbox;
     display: flex;
-    justify-content: space-evenly;
-    align-items: center;
+    -ms-flex-pack: space-evenly;
+        justify-content: space-evenly;
+    -ms-flex-align: center;
+        align-items: center;
     height:100vh;
     background: #CBC0A2;
     color: black
@@ -64,9 +76,12 @@ body{
 }
 
 #index{
+    display: -ms-flexbox;
     display: flex;
-    flex-direction: column;
-    justify-content: stretch;
+    -ms-flex-direction: column;
+        flex-direction: column;
+    -ms-flex-pack: stretch;
+        justify-content: stretch;
     max-width: 50%;
 }
 
@@ -116,9 +131,12 @@ h2{
 .footer{
     height:40vh;
     background: #8D785E;
+    display: -ms-flexbox;
     display: flex;
-    justify-content: space-around;
-    align-items: center;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+    -ms-flex-align: center;
+        align-items: center;
     background-image: url('./img/background-image.png');
     background-size: 10%;
     background-repeat: repeat-x ;
@@ -130,10 +148,14 @@ h2{
 }
 
 .text_container{
+    display: -ms-flexbox;
     display: flex;
-    align-self: flex-start;
-    justify-content: space-between;
-    align-items: stretch;
+    -ms-flex-item-align: start;
+        align-self: flex-start;
+    -ms-flex-pack: justify;
+        justify-content: space-between;
+    -ms-flex-align: stretch;
+        align-items: stretch;
     margin: 2% 5%;
     min-width: 50%;
 }
@@ -147,7 +169,8 @@ h1{
     font-size: 200%;
     margin:0;
     padding-bottom: 10%;
-    align-self: flex-start;
+    -ms-flex-item-align: start;
+        align-self: flex-start;
     min-width: 50%;;
 }
 
@@ -171,13 +194,16 @@ h1{
 
 #thanks{
     list-style-type: none;
+    display: -ms-flexbox;
     display: flex;
-    flex-direction: column;
+    -ms-flex-direction: column;
+        flex-direction: column;
 }
 
 #thanks ul{
     width: 100%;
     list-style-type: none;
+    display: -ms-flexbox;
     display: flex;
 }
 
@@ -211,7 +237,8 @@ portrait orientation on mobile */
         display: none;
     }
     #index{
-        flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
         max-width: 80%;
     }
     #index p{
@@ -275,7 +302,8 @@ portrait orientation on mobile */
         height: 50%;
         margin: 0;
         padding: 0;
-        flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
         width: 100%;
     }
     #thanks li{
@@ -321,7 +349,9 @@ portrait orientation on mobile */
         min-height: 100%;
     }
     #created_by .name{
-        align-self: center;
+        -ms-flex-item-align: center;
+            -ms-grid-row-align: center;
+            align-self: center;
         margin-top: 50%;
         position: relative;
         top:20%
@@ -354,7 +384,8 @@ portrait orientation on mobile */
         height: 30vh;
     }
     #thanks ul{
-        flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
         margin: 0
     }
     #thanks li{
