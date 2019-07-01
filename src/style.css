@@ -16,7 +16,8 @@ body{
     border: 0;
 }
 #header{
-    height:100vh;
+    min-height:100vh;
+    box-sizing: border-box;
     margin: 0;
     display: flex;
     justify-content: center;
@@ -33,6 +34,8 @@ body{
     margin-right: 5%;
     font-family: 'Shojumaru', cursive;
     font-size: 500%;
+    box-sizing: border-box;
+
 }
 
 .text{
@@ -53,20 +56,24 @@ body{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    height:100vh;
+    min-height:100vh;
     background: #CBC0A2;
-    color: black
+    color: black;
+    box-sizing: border-box;
+
 }
 
 #index_container img{
-    max-height: 50%;
+    max-width: 50%;
 }
 
 #index{
     display: flex;
     flex-direction: column;
-    justify-content: stretch;
+    align-items: stretch;
     max-width: 50%;
+    box-sizing: border-box;
+
 }
 
 #index p{
@@ -77,9 +84,11 @@ body{
 
 #index h1{
     font-size: 50px;
+    align-self: flex-end;
 }
 
 .wrapper{
+    box-sizing: border-box;
     margin: 0;
     padding: 5% 15%;
     background-position:
@@ -115,7 +124,7 @@ h2{
 }
 
 .footer{
-    height:40vh;
+    min-height:40vh;
     background: #8D785E;
     display: flex;
     justify-content: space-around;
@@ -127,7 +136,7 @@ h2{
     padding-top: 2%;
 }
 .footer img{
-    height: 100%;
+    height: 350px;
 }
 
 .text_container{
@@ -188,7 +197,7 @@ h1{
 /* 
 portrait orientation on mobile */
 
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation: portrait){
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px){
     #header img{
         display: none;
     }
@@ -272,9 +281,11 @@ portrait orientation on mobile */
 }
 
 /* Landscape orientation on mobile  */
-@media only screen and (min-device-width: 480px) and (max-device-width: 812px) and (orientation:landscape){
+@media only screen and (min-device-width: 480px) and (max-device-width: 812px) and (orientation: landscape){
+    
     .title_container p{
         margin: 0;
+        font-size: 40px;
     }
     #header img{
         display: none;
@@ -286,11 +297,14 @@ portrait orientation on mobile */
         font-size: 20px;
     }
     #index {
-        max-width: 60%;
-
+        min-width: 80%;
+    }
+    #index_container img{
+        display: none;
     }
     #index h1{
         padding: 0;
+        align-self: center;
         font-size: 35px;
     }
     .title_container img{
@@ -338,7 +352,7 @@ portrait orientation on mobile */
 }
 
 /* portrait orientation on tablet/ipad */
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+@media only screen and (min-device-width: 768px) and (max-device-width: 900px){
     #header img{
         max-height: 100px;
     }
@@ -348,12 +362,6 @@ portrait orientation on mobile */
     #index_container img{
         display: none;
     }
-    #index_container{
-        background-image: url(./img/imageC.png);
-        background-size: 40%;
-        background-repeat: no-repeat;
-        background-position: bottom right
-    }
     #index{
         max-width: 80%;
     }
@@ -362,8 +370,14 @@ portrait orientation on mobile */
         align-self: center;
     }
     .footer{
-        height: 30%;
+        min-height: 30%;
     }
+    .footer img{
+        position: relative;
+        bottom: -17px;
+        height: 250px;
+    }
+
     .wrapper{
         background-image: none;
         padding: 5% 10%;
