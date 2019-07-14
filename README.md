@@ -46,7 +46,7 @@ The Bayes Way - this page - is a small subset of the best articles, papers, vide
 
 - [Doing Bayesian Data Analysis: A Tutorial Introduction with R - John K. Kruschke](https://www.goodreads.com/book/show/9003187-doing-bayesian-data-analysis)
 
-- [Statistical Rethinking - Richard McElreath](https://xcelab.net/rm/statistical-rethinking/)
+- [Statistical Rethinking - Richard McElreath](https://xcelab.net/rm/statistical-rethinking/) and [Statistical Rethinking Winter 2019 video lectures](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)
 
 - [Probability Theory: The Logic of Science - E.T. Jaynes](https://www.goodreads.com/book/show/151848.Probability_Theory) and [Aubrey Clayton lectures on the key chapters of Probability Theory The Logic of Science](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
 
