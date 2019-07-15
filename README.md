@@ -52,6 +52,12 @@ The Bayes Way - this page - is a small subset of the best articles, papers, vide
 
 - [Bayesian Data Analysis - Andrew Gelman](http://www.stat.columbia.edu/~gelman/book/)
 
+## Science popularization
+
+- [The Signal and the Noise: Why So Many Predictions Fail - But Some Don't - Nate Silver](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise)
+
+- [ The Theory That Would Not Die: How Bayes' Rule Cracked the Enigma Code, Hunted Down Russian Submarines, and Emerged Triumphant from Two Centuries of Controversy - Sharon Bertsch McGrayne](https://www.goodreads.com/book/show/10672848-the-theory-that-would-not-die)
+
 ## Papers and Thesis
 
 - [Automating Inference, Learning, and Design using Probabilistic Programming - Tom Rainforth](http://www.robots.ox.ac.uk/~twgr/assets/pdf/rainforth2017thesis.pdf)
