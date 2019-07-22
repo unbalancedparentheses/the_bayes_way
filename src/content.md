@@ -72,4 +72,4 @@ The Bayes Way - this page - is a small subset of the best articles, papers, vide
 
 - [A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)
 
-- [The Markov Chain Monte Carlo Revolution](https://math.uchicago.edu/~shmuel/Network-course-readings/MCMCRev.pdf)
+- [The Markov Chain Monte Carlo Revolution - Persi Diaconis](https://math.uchicago.edu/~shmuel/Network-course-readings/MCMCRev.pdf)
