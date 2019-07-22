@@ -52,7 +52,7 @@ The Bayes Way - this page - is a small subset of the best articles, papers, vide
 
 - [Bayesian Data Analysis - Andrew Gelman](http://www.stat.columbia.edu/~gelman/book/)
 
-- [Statistical consequences of fat tails - Nassim Nicholas Taleb](https://www.academia.edu/37221402/STATISTICAL_CONSEQUENCES_OF_FAT_TAILS_TECHNICAL_INCERTO_COLLECTION_)
+- [Statistical consequences of fat tails - Nassim Taleb](https://www.academia.edu/37221402/STATISTICAL_CONSEQUENCES_OF_FAT_TAILS_TECHNICAL_INCERTO_COLLECTION_)
 
 ## Science popularization
 
@@ -62,7 +62,11 @@ The Bayes Way - this page - is a small subset of the best articles, papers, vide
 
 ## Papers and Thesis
 
-- [The Law of Large Numbers and Fat Tailed Distributions](https://youtu.be/nDY_fh2TVlI)
+- [It is a 10 sigma event or are you wrong about the world? - Nassim Taleb](https://youtu.be/k_lYeNuBTE8)
+
+- [The Law of Large Numbers and Fat Tailed Distributions - Nassim Taleb](https://youtu.be/nDY_fh2TVlI)
+
+- [On the statistical properties and tail risk of violent conflicts - Pasquale Cirillo, Nassim Nicholas Taleb](https://arxiv.org/abs/1505.04722)
 
 - [Automating Inference, Learning, and Design using Probabilistic Programming - Tom Rainforth](http://www.robots.ox.ac.uk/~twgr/assets/pdf/rainforth2017thesis.pdf)
 
