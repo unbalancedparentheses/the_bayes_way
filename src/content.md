@@ -52,6 +52,8 @@ The Bayes Way - this page - is a small subset of the best articles, papers, vide
 
 - [Bayesian Data Analysis - Andrew Gelman](http://www.stat.columbia.edu/~gelman/book/)
 
+- [Statistical consequences of fat tails - Nassim Nicholas Taleb](https://www.academia.edu/37221402/STATISTICAL_CONSEQUENCES_OF_FAT_TAILS_TECHNICAL_INCERTO_COLLECTION_)
+
 ## Science popularization
 
 - [The Signal and the Noise: Why So Many Predictions Fail - But Some Don't - Nate Silver](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise)
