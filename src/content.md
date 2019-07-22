@@ -62,6 +62,8 @@ The Bayes Way - this page - is a small subset of the best articles, papers, vide
 
 ## Papers and Thesis
 
+- [The Law of Large Numbers and Fat Tailed Distributions](https://youtu.be/nDY_fh2TVlI)
+
 - [Automating Inference, Learning, and Design using Probabilistic Programming - Tom Rainforth](http://www.robots.ox.ac.uk/~twgr/assets/pdf/rainforth2017thesis.pdf)
 
 - [A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)
