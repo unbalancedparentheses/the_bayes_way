@@ -44,6 +44,10 @@ The Bayes Way - this page - is a small subset of the best articles, papers, vide
 
 - [Introduction to Probability - Joseph K. Blitzstein, Jessica Hwang](https://www.goodreads.com/book/show/21558327-introduction-to-probability)
 
+- [A Student’s Guide to Bayesian Statistics - Ben Lambert](https://www.goodreads.com/book/show/39784111-a-student-s-guide-to-bayesian-statistics)
+
+- [A First Course in Bayesian Statistical Methods - Peter D. Hoff](https://www.goodreads.com/book/show/7651231-a-first-course-in-bayesian-statistical-methods)
+
 - [Doing Bayesian Data Analysis: A Tutorial Introduction with R - John K. Kruschke](https://www.goodreads.com/book/show/9003187-doing-bayesian-data-analysis)
 
 - [Statistical Rethinking - Richard McElreath](https://xcelab.net/rm/statistical-rethinking/) and [Statistical Rethinking Winter 2019 video lectures](https://www.youtube.com/playlist?list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI)
