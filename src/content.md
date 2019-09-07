@@ -56,6 +56,8 @@ The Bayes Way - this page - is a small subset of the best articles, papers, vide
 
 - [Bayesian Data Analysis - Andrew Gelman](http://www.stat.columbia.edu/~gelman/book/)
 
+- [Information Theory, Inference and Learning Algorithms - David J.C. MacKay](https://www.goodreads.com/book/show/201357.Information_Theory_Inference_and_Learning_Algorithms)
+
 - [Statistical consequences of fat tails - Nassim Taleb](https://www.academia.edu/37221402/STATISTICAL_CONSEQUENCES_OF_FAT_TAILS_TECHNICAL_INCERTO_COLLECTION_)
 
 ## Science popularization
