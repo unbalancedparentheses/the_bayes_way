@@ -44,7 +44,7 @@ The Bayes Way - this page - is a small subset of the best articles, papers, vide
 
 - [Introduction to Probability - Joseph K. Blitzstein, Jessica Hwang](https://www.goodreads.com/book/show/21558327-introduction-to-probability)
 
-- [A Student’s Guide to Bayesian Statistics - Ben Lambert](https://www.goodreads.com/book/show/39784111-a-student-s-guide-to-bayesian-statistics)
+- [A Student’s Guide to Bayesian Statistics - Ben Lambert](https://www.goodreads.com/book/show/39784111-a-student-s-guide-to-bayesian-statistics) and [its video lectures](https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG)
 
 - [A First Course in Bayesian Statistical Methods - Peter D. Hoff](https://www.goodreads.com/book/show/7651231-a-first-course-in-bayesian-statistical-methods)
 
