@@ -26,6 +26,8 @@ The Bayes Way - this page - is a small subset of the best articles, papers, vide
 
 - [The Art of Data Science: A Guide for Anyone Who Works with Data - Roger D. Peng, Elizabeth Matsui](https://www.goodreads.com/book/show/26299386-the-art-of-data-science)
 
+- [Statistics Done Wrong - Alex Reinhart](https://www.goodreads.com/book/show/23241062-statistics-done-wrong)
+
 ## Probabilistic Programming
 
 - [Probabilistic Programming & Bayesian Methods for Hackers - Cam Davidson-Pilon](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
