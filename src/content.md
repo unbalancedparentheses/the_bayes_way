@@ -2,6 +2,34 @@
 
 The Bayes Way - this page - is a small subset of the best articles, papers, videos and books to learn Probability and Statistics. It is a way to reduce the signal-noise ratio for beginners.
 
+# Not yet reviewed
+
+> These resources were recently found and have not been reviewed yet.
+
+### Books
+- [Bayesian Modeling and Computation in Python - Martin, Kumar, Lao (2022)](https://bayesiancomputationbook.com) - Hands-on guide covering PyMC, ArviZ, BART; free online
+- [Bayes Rules! An Introduction to Applied Bayesian Modeling - Johnson, Ott, Dogucu (2022)](https://www.bayesrulesbook.com) - Accessible undergraduate intro; free online
+- [Probabilistic Machine Learning: An Introduction - Kevin Murphy (MIT Press, 2022)](https://probml.github.io/pml-book/book1.html) - Modern ML unified under probabilistic/Bayesian modeling; free PDF
+
+### Courses
+- [Statistical Rethinking 2023 Lectures - Richard McElreath](https://youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus) - 20-lecture YouTube course; PyMC5 translations available
+- [BDA Course (Aalto) - Aki Vehtari (2024)](https://avehtari.github.io/BDA_course_Aalto/) - Full university course based on BDA3; free
+- [Learning Bayesian Statistics Podcast - Alexandre Andorra](https://www.learnbayesstats.com/) - 175+ episodes interviewing Bayesian researchers
+
+### Tools
+- [PyMC v5 (2023)](https://www.pymc.io) - Major rewrite on PyTensor; [paper](https://peerj.com/articles/cs-1516/)
+- [NumPyro](https://num.pyro.ai) - JAX-based PPL with JIT-compiled NUTS/HMC; GPU/TPU compatible
+- [BlackJAX](https://github.com/blackjax-devs/blackjax) - Composable JAX library of MCMC/VI samplers
+
+### Papers
+- [Bayesian Workflow - Gelman, Vehtari, Simpson et al. (2020)](https://arxiv.org/abs/2011.01808) - Authoritative 70+ page treatment of the full Bayesian modeling cycle
+- [Pathfinder: Parallel Quasi-Newton Variational Inference (JMLR, 2022)](https://jmlr.org/papers/v23/21-0889.html) - Fast VI algorithm outperforming ADVI by 1-2 orders of magnitude; now in Stan and PyMC
+- [The Frontier of Simulation-Based Inference - Cranmer, Brehmer, Louppe (PNAS, 2020)](https://www.pnas.org/doi/10.1073/pnas.1912789117) - Landmark review of likelihood-free inference methods
+
+### Tutorials
+- [Probabilistic Programming with PyMC - Chris Fonnesbeck (2024)](https://github.com/fonnesbeck/probabilistic_python) - Workshop notebooks covering PyMC5 workflow
+- [ArviZ: Exploratory Analysis of Bayesian Models](https://arviz-devs.github.io/EABM/) - Interactive notebooks on posterior checks, LOO-CV, diagnostics
+
 ## Introduction to Python, Numpy and Pandas
 
 - [A Whirlwind Tour of Python - Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython)
