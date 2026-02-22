@@ -2,57 +2,6 @@
 
 The Bayes Way - this page - is a small subset of the best articles, papers, videos and books to learn Probability and Statistics. It is a way to reduce the signal-noise ratio for beginners.
 
-# Not yet reviewed
-
-> These resources were recently found and have not been reviewed yet.
-
-### Books
-- [Bayesian Modeling and Computation in Python - Martin, Kumar, Lao (2022)](https://bayesiancomputationbook.com) - Hands-on guide covering PyMC, ArviZ, BART; free online
-- [Bayes Rules! An Introduction to Applied Bayesian Modeling - Johnson, Ott, Dogucu (2022)](https://www.bayesrulesbook.com) - Accessible undergraduate intro; free online
-- [Probabilistic Machine Learning: An Introduction - Kevin Murphy (MIT Press, 2022)](https://probml.github.io/pml-book/book1.html) - Modern ML unified under probabilistic/Bayesian modeling; free PDF
-
-### Courses
-- [Statistical Rethinking 2023 Lectures - Richard McElreath](https://youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus) - 20-lecture YouTube course; PyMC5 translations available
-- [BDA Course (Aalto) - Aki Vehtari (2024)](https://avehtari.github.io/BDA_course_Aalto/) - Full university course based on BDA3; free
-- [Learning Bayesian Statistics Podcast - Alexandre Andorra](https://www.learnbayesstats.com/) - 175+ episodes interviewing Bayesian researchers
-
-### Tools
-- [PyMC v5 (2023)](https://www.pymc.io) - Major rewrite on PyTensor; [paper](https://peerj.com/articles/cs-1516/)
-- [NumPyro](https://num.pyro.ai) - JAX-based PPL with JIT-compiled NUTS/HMC; GPU/TPU compatible
-- [BlackJAX](https://github.com/blackjax-devs/blackjax) - Composable JAX library of MCMC/VI samplers
-
-### Papers
-- [Bayesian Workflow - Gelman, Vehtari, Simpson et al. (2020)](https://arxiv.org/abs/2011.01808) - Authoritative 70+ page treatment of the full Bayesian modeling cycle
-- [Pathfinder: Parallel Quasi-Newton Variational Inference (JMLR, 2022)](https://jmlr.org/papers/v23/21-0889.html) - Fast VI algorithm outperforming ADVI by 1-2 orders of magnitude; now in Stan and PyMC
-- [The Frontier of Simulation-Based Inference - Cranmer, Brehmer, Louppe (PNAS, 2020)](https://www.pnas.org/doi/10.1073/pnas.1912789117) - Landmark review of likelihood-free inference methods
-
-### Tutorials
-- [Probabilistic Programming with PyMC - Chris Fonnesbeck (2024)](https://github.com/fonnesbeck/probabilistic_python) - Workshop notebooks covering PyMC5 workflow
-- [ArviZ: Exploratory Analysis of Bayesian Models](https://arviz-devs.github.io/EABM/) - Interactive notebooks on posterior checks, LOO-CV, diagnostics
-
-### Books (New)
-- [Probabilistic Machine Learning: Advanced Topics - Kevin P. Murphy (MIT Press, 2023)](https://probml.github.io/book2) - Deep generative models, graphical models, causality, and advanced Bayesian inference; free PDF
-- [Active Statistics: Stories, Games, Problems, and Hands-On Demonstrations - Gelman & Vehtari (Cambridge, 2024)](https://avehtari.github.io/ActiveStatistics/) - 52 stories/demos companion to Regression and Other Stories; 2025 PROSE award winner
-- [Bayesian Nonparametrics for Causal Inference and Missing Data - Daniels, Linero, Roy (CRC, 2023)](https://www.routledge.com/Bayesian-Nonparametrics-for-Causal-Inference-and-Missing-Data/Daniels-Linero-Roy/p/book/9780367341008) - BNP methods (BART, DP mixtures, GPs) applied to causal inference and missing data
-- [A First Course in Causal Inference - Peng Ding (CRC Press, 2024)](https://www.routledge.com/A-First-Course-in-Causal-Inference/Ding/p/book/9781032758626) - UC Berkeley course textbook with potential outcomes framework, R code, and exercises
-
-### Courses (New)
-- [Statistical Rethinking 2024 - Richard McElreath](https://github.com/rmcelreath/stat_rethinking_2024) - Full lecture videos and materials with draft 3rd-edition content
-- [Statistical Rethinking 2025 - Richard McElreath](https://github.com/rmcelreath/stat_rethinking_2025) - Latest iteration with lectures and homework publicly available
-- [Uncertainty in Deep Learning (2024-2025) - Yarin Gal, Oxford](https://www.cs.ox.ac.uk/teaching/courses/2024-2025/UDL/) - Graduate course on Bayesian deep learning, uncertainty quantification, and dropout-as-inference
-
-### Papers (New)
-- [Position: Bayesian Deep Learning is Needed in the Age of Large-Scale AI - Papamarkou et al. (ICML 2024)](https://arxiv.org/abs/2402.00809) - BDL remains essential for uncertainty, active learning, and scientific data even with foundation models
-- [Neural Methods for Amortized Inference - Zammit-Mangion et al. (Annual Review of Statistics, 2025)](https://arxiv.org/abs/2404.12484) - Comprehensive review of neural amortized inference for point estimation and approximate Bayesian inference
-- [Amortized Bayesian Workflow - Li, Vehtari, Burkner et al. (NeurIPS BDU Workshop, 2024)](https://arxiv.org/abs/2409.04332) - Adaptive workflow combining fast amortized neural inference with gold-standard MCMC
-- [Diffusion Models in Simulation-Based Inference: A Tutorial Review (arXiv, 2025)](https://arxiv.org/abs/2512.20685) - Survey of diffusion and flow-matching generative models for neural posterior/likelihood estimation
-
-### Tools (New)
-- [sbi reloaded - Boelts et al. (JOSS, 2025)](https://github.com/sbi-dev/sbi) - Overhauled Python toolkit for simulation-based inference with neural posterior, likelihood, and ratio estimation
-- [BayesFlow 2.0 - Radev et al.](https://github.com/bayesflow-org/bayesflow) - Multi-backend amortized Bayesian inference via Keras 3 and generative neural networks
-- [PyMC-Marketing - PyMC Labs](https://github.com/pymc-labs/pymc-marketing) - Open-source Bayesian marketing analytics: Media Mix Modeling, Customer Lifetime Value, budget optimization
-- [CmdStan 2.36/2.37 (2024-2025)](https://blog.mc-stan.org/2024/12/10/release-of-cmdstan-2-36/) - New constrained types, improved Rhat/ESS diagnostics, reduced Pathfinder memory footprint
-
 ## Introduction to Python, Numpy and Pandas
 
 - [A Whirlwind Tour of Python - Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython) - Fast-paced beginner overview of Python syntax and core language features for those coming from other languages
@@ -106,3 +55,54 @@ The Bayes Way - this page - is a small subset of the best articles, papers, vide
 - [Automating Inference, Learning, and Design using Probabilistic Programming - Tom Rainforth](http://www.robots.ox.ac.uk/~twgr/assets/pdf/rainforth2017thesis.pdf) - Oxford PhD thesis providing a rigorous theoretical foundation for probabilistic programming and automated inference
 - [A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434) - Builds geometric intuition for HMC sampling without heavy math, essential for understanding modern MCMC
 - [The Markov Chain Monte Carlo Revolution - Persi Diaconis](https://math.uchicago.edu/~shmuel/Network-course-readings/MCMCRev.pdf) - Accessible survey of how MCMC transformed applied mathematics, statistics, and scientific computing
+
+# Not yet reviewed
+
+> These resources were recently found and have not been reviewed yet.
+
+### Books
+- [Bayesian Modeling and Computation in Python - Martin, Kumar, Lao (2022)](https://bayesiancomputationbook.com) - Hands-on guide covering PyMC, ArviZ, BART; free online
+- [Bayes Rules! An Introduction to Applied Bayesian Modeling - Johnson, Ott, Dogucu (2022)](https://www.bayesrulesbook.com) - Accessible undergraduate intro; free online
+- [Probabilistic Machine Learning: An Introduction - Kevin Murphy (MIT Press, 2022)](https://probml.github.io/pml-book/book1.html) - Modern ML unified under probabilistic/Bayesian modeling; free PDF
+
+### Courses
+- [Statistical Rethinking 2023 Lectures - Richard McElreath](https://youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus) - 20-lecture YouTube course; PyMC5 translations available
+- [BDA Course (Aalto) - Aki Vehtari (2024)](https://avehtari.github.io/BDA_course_Aalto/) - Full university course based on BDA3; free
+- [Learning Bayesian Statistics Podcast - Alexandre Andorra](https://www.learnbayesstats.com/) - 175+ episodes interviewing Bayesian researchers
+
+### Tools
+- [PyMC v5 (2023)](https://www.pymc.io) - Major rewrite on PyTensor; [paper](https://peerj.com/articles/cs-1516/)
+- [NumPyro](https://num.pyro.ai) - JAX-based PPL with JIT-compiled NUTS/HMC; GPU/TPU compatible
+- [BlackJAX](https://github.com/blackjax-devs/blackjax) - Composable JAX library of MCMC/VI samplers
+
+### Papers
+- [Bayesian Workflow - Gelman, Vehtari, Simpson et al. (2020)](https://arxiv.org/abs/2011.01808) - Authoritative 70+ page treatment of the full Bayesian modeling cycle
+- [Pathfinder: Parallel Quasi-Newton Variational Inference (JMLR, 2022)](https://jmlr.org/papers/v23/21-0889.html) - Fast VI algorithm outperforming ADVI by 1-2 orders of magnitude; now in Stan and PyMC
+- [The Frontier of Simulation-Based Inference - Cranmer, Brehmer, Louppe (PNAS, 2020)](https://www.pnas.org/doi/10.1073/pnas.1912789117) - Landmark review of likelihood-free inference methods
+
+### Tutorials
+- [Probabilistic Programming with PyMC - Chris Fonnesbeck (2024)](https://github.com/fonnesbeck/probabilistic_python) - Workshop notebooks covering PyMC5 workflow
+- [ArviZ: Exploratory Analysis of Bayesian Models](https://arviz-devs.github.io/EABM/) - Interactive notebooks on posterior checks, LOO-CV, diagnostics
+
+### Books (New)
+- [Probabilistic Machine Learning: Advanced Topics - Kevin P. Murphy (MIT Press, 2023)](https://probml.github.io/book2) - Deep generative models, graphical models, causality, and advanced Bayesian inference; free PDF
+- [Active Statistics: Stories, Games, Problems, and Hands-On Demonstrations - Gelman & Vehtari (Cambridge, 2024)](https://avehtari.github.io/ActiveStatistics/) - 52 stories/demos companion to Regression and Other Stories; 2025 PROSE award winner
+- [Bayesian Nonparametrics for Causal Inference and Missing Data - Daniels, Linero, Roy (CRC, 2023)](https://www.routledge.com/Bayesian-Nonparametrics-for-Causal-Inference-and-Missing-Data/Daniels-Linero-Roy/p/book/9780367341008) - BNP methods (BART, DP mixtures, GPs) applied to causal inference and missing data
+- [A First Course in Causal Inference - Peng Ding (CRC Press, 2024)](https://www.routledge.com/A-First-Course-in-Causal-Inference/Ding/p/book/9781032758626) - UC Berkeley course textbook with potential outcomes framework, R code, and exercises
+
+### Courses (New)
+- [Statistical Rethinking 2024 - Richard McElreath](https://github.com/rmcelreath/stat_rethinking_2024) - Full lecture videos and materials with draft 3rd-edition content
+- [Statistical Rethinking 2025 - Richard McElreath](https://github.com/rmcelreath/stat_rethinking_2025) - Latest iteration with lectures and homework publicly available
+- [Uncertainty in Deep Learning (2024-2025) - Yarin Gal, Oxford](https://www.cs.ox.ac.uk/teaching/courses/2024-2025/UDL/) - Graduate course on Bayesian deep learning, uncertainty quantification, and dropout-as-inference
+
+### Papers (New)
+- [Position: Bayesian Deep Learning is Needed in the Age of Large-Scale AI - Papamarkou et al. (ICML 2024)](https://arxiv.org/abs/2402.00809) - BDL remains essential for uncertainty, active learning, and scientific data even with foundation models
+- [Neural Methods for Amortized Inference - Zammit-Mangion et al. (Annual Review of Statistics, 2025)](https://arxiv.org/abs/2404.12484) - Comprehensive review of neural amortized inference for point estimation and approximate Bayesian inference
+- [Amortized Bayesian Workflow - Li, Vehtari, Burkner et al. (NeurIPS BDU Workshop, 2024)](https://arxiv.org/abs/2409.04332) - Adaptive workflow combining fast amortized neural inference with gold-standard MCMC
+- [Diffusion Models in Simulation-Based Inference: A Tutorial Review (arXiv, 2025)](https://arxiv.org/abs/2512.20685) - Survey of diffusion and flow-matching generative models for neural posterior/likelihood estimation
+
+### Tools (New)
+- [sbi reloaded - Boelts et al. (JOSS, 2025)](https://github.com/sbi-dev/sbi) - Overhauled Python toolkit for simulation-based inference with neural posterior, likelihood, and ratio estimation
+- [BayesFlow 2.0 - Radev et al.](https://github.com/bayesflow-org/bayesflow) - Multi-backend amortized Bayesian inference via Keras 3 and generative neural networks
+- [PyMC-Marketing - PyMC Labs](https://github.com/pymc-labs/pymc-marketing) - Open-source Bayesian marketing analytics: Media Mix Modeling, Customer Lifetime Value, budget optimization
+- [CmdStan 2.36/2.37 (2024-2025)](https://blog.mc-stan.org/2024/12/10/release-of-cmdstan-2-36/) - New constrained types, improved Rhat/ESS diagnostics, reduced Pathfinder memory footprint
