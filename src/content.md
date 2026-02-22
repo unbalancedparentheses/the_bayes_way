@@ -30,6 +30,29 @@ The Bayes Way - this page - is a small subset of the best articles, papers, vide
 - [Probabilistic Programming with PyMC - Chris Fonnesbeck (2024)](https://github.com/fonnesbeck/probabilistic_python) - Workshop notebooks covering PyMC5 workflow
 - [ArviZ: Exploratory Analysis of Bayesian Models](https://arviz-devs.github.io/EABM/) - Interactive notebooks on posterior checks, LOO-CV, diagnostics
 
+### Books (New)
+- [Probabilistic Machine Learning: Advanced Topics - Kevin P. Murphy (MIT Press, 2023)](https://probml.github.io/book2) - Deep generative models, graphical models, causality, and advanced Bayesian inference; free PDF
+- [Active Statistics: Stories, Games, Problems, and Hands-On Demonstrations - Gelman & Vehtari (Cambridge, 2024)](https://avehtari.github.io/ActiveStatistics/) - 52 stories/demos companion to Regression and Other Stories; 2025 PROSE award winner
+- [Bayesian Nonparametrics for Causal Inference and Missing Data - Daniels, Linero, Roy (CRC, 2023)](https://www.routledge.com/Bayesian-Nonparametrics-for-Causal-Inference-and-Missing-Data/Daniels-Linero-Roy/p/book/9780367341008) - BNP methods (BART, DP mixtures, GPs) applied to causal inference and missing data
+- [A First Course in Causal Inference - Peng Ding (CRC Press, 2024)](https://www.routledge.com/A-First-Course-in-Causal-Inference/Ding/p/book/9781032758626) - UC Berkeley course textbook with potential outcomes framework, R code, and exercises
+
+### Courses (New)
+- [Statistical Rethinking 2024 - Richard McElreath](https://github.com/rmcelreath/stat_rethinking_2024) - Full lecture videos and materials with draft 3rd-edition content
+- [Statistical Rethinking 2025 - Richard McElreath](https://github.com/rmcelreath/stat_rethinking_2025) - Latest iteration with lectures and homework publicly available
+- [Uncertainty in Deep Learning (2024-2025) - Yarin Gal, Oxford](https://www.cs.ox.ac.uk/teaching/courses/2024-2025/UDL/) - Graduate course on Bayesian deep learning, uncertainty quantification, and dropout-as-inference
+
+### Papers (New)
+- [Position: Bayesian Deep Learning is Needed in the Age of Large-Scale AI - Papamarkou et al. (ICML 2024)](https://arxiv.org/abs/2402.00809) - BDL remains essential for uncertainty, active learning, and scientific data even with foundation models
+- [Neural Methods for Amortized Inference - Zammit-Mangion et al. (Annual Review of Statistics, 2025)](https://arxiv.org/abs/2404.12484) - Comprehensive review of neural amortized inference for point estimation and approximate Bayesian inference
+- [Amortized Bayesian Workflow - Li, Vehtari, Burkner et al. (NeurIPS BDU Workshop, 2024)](https://arxiv.org/abs/2409.04332) - Adaptive workflow combining fast amortized neural inference with gold-standard MCMC
+- [Diffusion Models in Simulation-Based Inference: A Tutorial Review (arXiv, 2025)](https://arxiv.org/abs/2512.20685) - Survey of diffusion and flow-matching generative models for neural posterior/likelihood estimation
+
+### Tools (New)
+- [sbi reloaded - Boelts et al. (JOSS, 2025)](https://github.com/sbi-dev/sbi) - Overhauled Python toolkit for simulation-based inference with neural posterior, likelihood, and ratio estimation
+- [BayesFlow 2.0 - Radev et al.](https://github.com/bayesflow-org/bayesflow) - Multi-backend amortized Bayesian inference via Keras 3 and generative neural networks
+- [PyMC-Marketing - PyMC Labs](https://github.com/pymc-labs/pymc-marketing) - Open-source Bayesian marketing analytics: Media Mix Modeling, Customer Lifetime Value, budget optimization
+- [CmdStan 2.36/2.37 (2024-2025)](https://blog.mc-stan.org/2024/12/10/release-of-cmdstan-2-36/) - New constrained types, improved Rhat/ESS diagnostics, reduced Pathfinder memory footprint
+
 ## Introduction to Python, Numpy and Pandas
 
 - [A Whirlwind Tour of Python - Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython) - Fast-paced beginner overview of Python syntax and core language features for those coming from other languages
