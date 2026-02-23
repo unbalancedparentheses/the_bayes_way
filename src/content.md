@@ -2,6 +2,8 @@
 
 The Bayes Way - this page - is a small subset of the best articles, papers, videos and books to learn Probability and Statistics. It is a way to reduce the signal-noise ratio for beginners.
 
+The most important recent development is the convergence of Bayesian methods with deep learning. Amortized inference (training a neural network to approximate the posterior directly) and simulation-based inference (using simulators as implicit likelihoods) let you do Bayesian inference in problems where the likelihood is intractable. Statistical Rethinking 2024/2025 (McElreath) remains the best entry point, now with updated code. The tools ecosystem has matured: BayesFlow 2.0 for amortized simulation-based inference, sbi reloaded for likelihood-free inference, PyMC-Marketing for Bayesian marketing mix models, and CmdStan improvements for scaling HMC. The causal inference books (Cunningham's Causal Inference: The Mixtape, Hernán & Robins' What If) bridge the gap between Bayesian modeling and causal reasoning.
+
 ## Introduction to Python, Numpy and Pandas
 
 - [A Whirlwind Tour of Python - Jake VanderPlas](https://github.com/jakevdp/WhirlwindTourOfPython) - Fast-paced beginner overview of Python syntax and core language features for those coming from other languages
